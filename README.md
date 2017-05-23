@@ -3,3 +3,6 @@ Summary:Although Mary (Parker Posey) has little income, she still finds ways to 
 <br>
 <img height="500" src="http://static.rogerebert.com/uploads/movie/movie_poster/party-girl-1995/large_mGYmk0Rh4AlqusEP6fHkLFp6Rc4.jpg" />
 <br>
+<br>
+<img height="500" src="http://assets.vogue.com/photos/5891ee7c7edfa70512d67b40/master/w_660,c_limit/party-girl-3.gif" />
+<br>
