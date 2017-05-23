@@ -25,3 +25,5 @@ Nothing to Wear
 <br>
 <img height="500" src="http://assets.vogue.com/photos/5891ee7bb482c0ea0e4db9e3/master/w_660,c_limit/party-girl-2.gif" />
 <br>
+
+Source: http://www.vogue.com/article/party-girl-parker-posey-dress-the-part
